@@ -1,0 +1,142 @@
+%PDF-1.4
+%âãÏÓ
+1 0 obj
+<< /Type /Catalog /Pages 3 0 R /Outlines 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Outlines /Count 0 >>
+endobj
+3 0 obj
+<< /Type /Pages /Kids [ 6 0 R 8 0 R ] /Count 2 >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /Name /F1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /Name /F2 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [ 0 0 612 792 ] /Contents 7 0 R /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> >>
+endobj
+7 0 obj
+<< /Length 1019 >>
+stream
+BT
+/F2 16 Tf
+50 740 Td
+(YCCify - Yeshwantrao Chavan College of Engineering) Tj
+/F1 11 Tf
+0 -20 Td
+(IT701 - Machine Learning | Dr. S. S. Khedkar) Tj
+/F2 14 Tf
+0 -30 Td
+(Unit 3 - Classification Algorithms) Tj
+/F1 10 Tf
+0 -18 Td
+(Topic: Decision Trees, SVM & Naive Bayes) Tj
+0 -25 Td
+ET
+q 0.1 w 0.2 0.35 0.95 rg 50 635 512 2 re f Q
+BT
+/F1 11 Tf
+50 610 Td
+/F2 13 Tf
+(3.1 Introduction) Tj
+/F1 11 Tf
+0 -22 Td
+(Classification is a supervised learning technique which is used to predict the category of a given input.) Tj
+0 -15 Td
+0 -10 Td
+/F2 11 Tf
+(3.2 Common Algorithms:) Tj
+/F1 10 Tf
+0 -18 Td
+(   * Decision Tree Entropy, Information Gain, Gini Impurity) Tj
+0 -16 Td
+(   * Naive Bayes Bayes Theorem with conditional independence) Tj
+0 -16 Td
+(   * Support Vector Machine SVM, Margin Maximization, Kernel Trick) Tj
+0 -16 Td
+(   * k-Nearest Neighbour k-NN, Euclidean & Manhattan metrics) Tj
+0 -16 Td
+ET
+BT
+/F1 9 Tf
+50 40 Td
+(YCCify Academic Platform - Approved Academic Resource | Nagpur, MH) Tj
+450 0 Td
+(Page 1 of 2) Tj
+ET
+
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [ 0 0 612 792 ] /Contents 9 0 R /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> >>
+endobj
+9 0 obj
+<< /Length 847 >>
+stream
+BT
+/F2 16 Tf
+50 740 Td
+(YCCify - Yeshwantrao Chavan College of Engineering) Tj
+/F1 11 Tf
+0 -20 Td
+(IT701 - Machine Learning | Dr. S. S. Khedkar) Tj
+/F2 14 Tf
+0 -30 Td
+(Unit 3 - Classification Algorithms) Tj
+/F1 10 Tf
+0 -18 Td
+(Topic: Decision Trees, SVM & Naive Bayes) Tj
+0 -25 Td
+ET
+q 0.1 w 0.2 0.35 0.95 rg 50 635 512 2 re f Q
+BT
+/F1 11 Tf
+50 610 Td
+/F2 13 Tf
+(3.3 Model Evaluation Metrics) Tj
+/F1 11 Tf
+0 -22 Td
+(Evaluating classification performance requires multiple complementary metrics.) Tj
+0 -15 Td
+0 -10 Td
+/F2 11 Tf
+(Metrics:) Tj
+/F1 10 Tf
+0 -18 Td
+(   * Confusion Matrix TP, FP, TN, FN) Tj
+0 -16 Td
+(   * Accuracy, Precision, Recall, F1-Score) Tj
+0 -16 Td
+(   * ROC Curve and Area Under Curve AUC) Tj
+0 -16 Td
+ET
+BT
+/F1 9 Tf
+50 40 Td
+(YCCify Academic Platform - Approved Academic Resource | Nagpur, MH) Tj
+450 0 Td
+(Page 2 of 2) Tj
+ET
+
+endstream
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000019 00000 n 
+0000000084 00000 n 
+0000000130 00000 n 
+0000000195 00000 n 
+0000000275 00000 n 
+0000000360 00000 n 
+0000000498 00000 n 
+0000001569 00000 n 
+0000001707 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+2605
+%%EOF

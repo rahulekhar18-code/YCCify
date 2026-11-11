@@ -1,0 +1,29 @@
+{
+  "name": "yccify-platform",
+  "version": "1.0.0",
+  "private": true,
+  "description": "YCCify – Everything Your Academics Need. Academic Resource-Sharing Platform for YCCE, Nagpur",
+  "workspaces": [
+    "packages/*",
+    "backend",
+    "apps/*"
+  ],
+  "scripts": {
+    "dev": "node scripts/start-all.js",
+    "dev:backend": "npm --workspace=backend run dev",
+    "dev:web": "npm --workspace=apps/web run dev",
+    "dev:mobile": "npm --workspace=apps/mobile run start",
+    "build:web": "npm --workspace=apps/web run build",
+    "build:backend": "npm --workspace=backend run build"
+  },
+  "keywords": [
+    "yccify",
+    "ycce",
+    "academic",
+    "resource-sharing",
+    "edtech"
+  ],
+  "author": "YCCify Team",
+  "license": "Apache-2.0"
+}
+

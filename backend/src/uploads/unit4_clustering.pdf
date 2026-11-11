@@ -1,0 +1,85 @@
+%PDF-1.4
+%âãÏÓ
+1 0 obj
+<< /Type /Catalog /Pages 3 0 R /Outlines 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Outlines /Count 0 >>
+endobj
+3 0 obj
+<< /Type /Pages /Kids [ 6 0 R ] /Count 1 >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /Name /F1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /Name /F2 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [ 0 0 612 792 ] /Contents 7 0 R /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> >>
+endobj
+7 0 obj
+<< /Length 890 >>
+stream
+BT
+/F2 16 Tf
+50 740 Td
+(YCCify - Yeshwantrao Chavan College of Engineering) Tj
+/F1 11 Tf
+0 -20 Td
+(IT701 - Machine Learning | Dr. S. S. Khedkar) Tj
+/F2 14 Tf
+0 -30 Td
+(Unit 4 - Unsupervised Clustering) Tj
+/F1 10 Tf
+0 -18 Td
+(Topic: K-Means & Hierarchical Clustering) Tj
+0 -25 Td
+ET
+q 0.1 w 0.2 0.35 0.95 rg 50 635 512 2 re f Q
+BT
+/F1 11 Tf
+50 610 Td
+/F2 13 Tf
+(4.1 Cluster Analysis Fundamentals) Tj
+/F1 11 Tf
+0 -22 Td
+(Unsupervised grouping of data points based on feature similarity.) Tj
+0 -15 Td
+0 -10 Td
+/F2 11 Tf
+(Algorithms:) Tj
+/F1 10 Tf
+0 -18 Td
+(   * K-Means Clustering Centroid updates & convergence) Tj
+0 -16 Td
+(   * Hierarchical Agglomerative Clustering Dendrograms) Tj
+0 -16 Td
+(   * DBSCAN Density-based spatial clustering for noisy data) Tj
+0 -16 Td
+ET
+BT
+/F1 9 Tf
+50 40 Td
+(YCCify Academic Platform - Approved Academic Resource | Nagpur, MH) Tj
+450 0 Td
+(Page 1 of 1) Tj
+ET
+
+endstream
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000019 00000 n 
+0000000084 00000 n 
+0000000130 00000 n 
+0000000189 00000 n 
+0000000269 00000 n 
+0000000354 00000 n 
+0000000492 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R >>
+startxref
+1433
+%%EOF
